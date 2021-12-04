@@ -17,6 +17,9 @@ public class Pram3d {
         };
         System.out.println(findInt(f2, 3, 4, 7, 10, Part));
 
+
+
+
         //Ссылка ст. метод
         exp obj = new exp();
         Func f3 = obj::exp;
